@@ -48,6 +48,9 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=105228" alt="django" width="40" height="40"/> 
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
