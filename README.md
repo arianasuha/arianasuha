@@ -79,6 +79,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h3 align="left">🏛️ API architectures I can implement:</h3>
+<p align="left">
+  <a href="https://www.ibm.com/docs/en/mfci/7.6.1?topic=apis-rest-api" target="_blank" rel="noreferrer"> 
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="90" height="45"/> 
+  </a> 
+
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=arianasuha&show_icons=true&line_height=33&count_private=true&card_width=495" alt="arianasuha's GitHub Stats" />
