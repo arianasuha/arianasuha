@@ -79,10 +79,10 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">🏛️ API architectures I can implement:</h3>
+<h3 align="left">🏛️ API architectures I learned:</h3>
 <p align="left">
   <a href="https://www.ibm.com/docs/en/mfci/7.6.1?topic=apis-rest-api" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="90" height="45"/> 
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="85" height="40"/> 
   </a> 
 
 ### 📈 My GitHub Stats
