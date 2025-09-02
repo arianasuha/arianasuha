@@ -88,6 +88,15 @@ Here are some ideas to get you started:
     <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="85" height="40"/> 
   </a> 
 
+---
+
+<h3 align="left">📦 Services I use:</h3>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
+  </a> 
+</p>
+
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=arianasuha&show_icons=true&line_height=33&count_private=true&card_width=495" alt="arianasuha's GitHub Stats" />
