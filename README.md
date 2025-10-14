@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <h3 align="left">🏛️ API architectures I learned:</h3>
 <p align="left">
   <a href="https://www.ibm.com/docs/en/mfci/7.6.1?topic=apis-rest-api" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="85" height="40"/> 
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="80" height="40"/> 
   </a> 
    <a href="https://www.redhat.com/en/topics/automation/what-is-a-webhook" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" alt="webhook" width="40" height="40"/> 
