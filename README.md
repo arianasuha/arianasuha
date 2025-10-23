@@ -93,6 +93,9 @@ Here are some ideas to get you started:
    <a href="https://www.redhat.com/en/topics/automation/what-is-a-webhook" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" alt="webhook" width="40" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer"> 
+    <img src="https://velog.velcdn.com/images/ktf1686/post/c72b9495-a217-4673-ad64-9fc1ce58dc9e/image.webp" alt="sse" width="40" height="40"/> 
+  </a>
 
 ---
 
