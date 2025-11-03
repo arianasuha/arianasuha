@@ -104,6 +104,12 @@ Here are some ideas to get you started:
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
   </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
+  </a> 
+  <a href="https://infisical.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/107880645?s=200&v=4" alt="infisical" width="45" height="45"/> 
+  </a> 
 </p>
 
 ### 📈 My GitHub Stats
