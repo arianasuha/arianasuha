@@ -98,6 +98,9 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer"> 
     <img src="https://velog.velcdn.com/images/ktf1686/post/c72b9495-a217-4673-ad64-9fc1ce58dc9e/image.webp" alt="sse" width="40" height="40"/> 
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/512px-WebSocket_colored_logo.svg.png" alt="websocket" width="40" height="40"/> 
+  </a> 
 
 ---
 
