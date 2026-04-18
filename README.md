@@ -16,107 +16,135 @@ Here are some ideas to get you started:
 <h3 align="left">🌐 Languages I know:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="45" height="45"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=8E3434" alt="rust" width="40" height="40"/> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=8E3434" alt="rust" width="45" height="45"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
   </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> 
   </a>
+  <a href="#" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="shell-script" width="45" height="45""/> 
+  </a> 
 </p>
+
+<br clear="left">
 
 ---
 
 <h3 align="left">🛠️ Frameworks I specialize in:</h3>
 <p align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=105228" alt="django" width="40" height="40"/> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=105228" alt="django" width="45" height="45"/> 
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/> 
   </a>
 </p>
+
+<br clear="left">
 
 ---
 
 <h3 align="left">🚀 Engines I work with:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/> 
   </a> 
-  <!--
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45"/> 
   </a> 
-  -->
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="nginx" width="40" height="40"/> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" alt="nginx" width="45" height="45"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="45" height="45"/> 
+  </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/> 
   </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/> 
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" alt="mariadb" width="40" height="40"/> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" alt="mariadb" width="45" height="45"/> 
   </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/> 
   </a> 
 </p>
 
+<br clear="left">
+
 ---
 
-<h3 align="left">🏛️ API architectures I learned:</h3>
+<h3 align="left">🏛️ API architectures I can implement:</h3>
 <p align="left">
   <a href="https://www.ibm.com/docs/en/mfci/7.6.1?topic=apis-rest-api" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="80" height="40"/> 
+    <img align="left" src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="90" height="45"/> 
   </a> 
-   <a href="https://www.redhat.com/en/topics/automation/what-is-a-webhook" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" alt="webhook" width="40" height="40"/> 
+  <a href="https://www.redhat.com/en/topics/automation/what-is-a-webhook" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" alt="webhook" width="45" height="45"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/960px-WebSocket_colored_logo.svg.png" alt="websocket" width="45" height="45"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer"> 
-    <img src="https://velog.velcdn.com/images/ktf1686/post/c72b9495-a217-4673-ad64-9fc1ce58dc9e/image.webp" alt="sse" width="40" height="40"/> 
+    <img align="left" src="https://velog.velcdn.com/images/ktf1686/post/c72b9495-a217-4673-ad64-9fc1ce58dc9e/image.webp" alt="sse" width="45" height="45"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/512px-WebSocket_colored_logo.svg.png" alt="websocket" width="40" height="40"/> 
-  </a> 
+</p>
+
+<br clear="left">
 
 ---
 
 <h3 align="left">📦 Services I use:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/> 
   </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> 
   </a> 
   <a href="https://infisical.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/107880645?s=200&v=4" alt="infisical" width="45" height="45"/> 
+    <img align="left" src="https://avatars.githubusercontent.com/u/107880645?s=200&v=4" alt="infisical" width="45" height="45"/> 
   </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> 
+  </a> 
+  <a href="https://www.tavily.com/">
+    <img align="left" src="https://media.licdn.com/dms/image/v2/D4E0BAQEwvSNcyDB9SA/company-logo_200_200/B4EZu9xH2iJUAI-/0/1768415330005/tavily_logo?e=1778112000&v=beta&t=NU_iB0rZgKpFsxPf7wi5gG7zmUsm4oFWJrUBg6PyVPQ" alt="tavily" width="45" height="45"/>
+  </a>
+  <a href="https://groq.com/">
+    <img align="left" src="https://media.licdn.com/dms/image/v2/D560BAQHu2B6mxi4DzA/company-logo_200_200/B56ZmD6jUWI0AI-/0/1758854788647/groq_logo?e=1778112000&v=beta&t=jj8NOFR24p8zNhtaeXG2x6i6Fe4wVOLehDMpew-QOko" alt="groq" width="45" height="45"/>
+  </a>
 </p>
 
+<br clear="left">
+
+---
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=arianasuha&show_icons=true&line_height=33&count_private=true&card_width=495" alt="arianasuha's GitHub Stats" />
