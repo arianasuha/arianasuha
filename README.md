@@ -137,11 +137,11 @@ Here are some ideas to get you started:
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> 
   </a> 
-  <a href="https://www.tavily.com/">
-    <img align="left" src="https://media.licdn.com/dms/image/v2/D4E0BAQEwvSNcyDB9SA/company-logo_200_200/B4EZu9xH2iJUAI-/0/1768415330005/tavily_logo?e=1778112000&v=beta&t=NU_iB0rZgKpFsxPf7wi5gG7zmUsm4oFWJrUBg6PyVPQ" alt="tavily" width="45" height="45"/>
+ <a href="https://www.tavily.com/">
+    <img align="left" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/tavily-color.png" alt="tavily" width="45" height="45"/>
   </a>
   <a href="https://groq.com/">
-    <img align="left" src="https://media.licdn.com/dms/image/v2/D560BAQHu2B6mxi4DzA/company-logo_200_200/B56ZmD6jUWI0AI-/0/1758854788647/groq_logo?e=1778112000&v=beta&t=jj8NOFR24p8zNhtaeXG2x6i6Fe4wVOLehDMpew-QOko" alt="groq" width="45" height="45"/>
+    <img align="left" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/groq.webp" alt="groq" width="45" height="45"/>
   </a>
 </p>
 
