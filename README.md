@@ -53,6 +53,9 @@ Here are some ideas to get you started:
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/> 
   </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/> 
+  </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=105228" alt="django" width="45" height="45"/> 
   </a>
